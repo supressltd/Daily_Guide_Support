@@ -1,4 +1,4 @@
-# Daily_Guide_Support 
+# Daily Guide Support 
 
 Welcome! This is the official support page for **Scripture Union Nigeria Daily Devotionals**.
 
