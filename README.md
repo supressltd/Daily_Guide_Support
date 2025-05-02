@@ -17,7 +17,7 @@ Click on **The Guide** button for details.
 
 -  Email: helpdesk@sunigeriapress.com
 -  Phone: +234 815 385 8234
--  Report Issues: [GitHub Issues](https://github.com/supressltd/Daily_Guide_Support/issues)
+-  Report Issues: [GitHub Issues](https://supressltd.github.io/Daily_Guide_Support/)
 
 ---
 
